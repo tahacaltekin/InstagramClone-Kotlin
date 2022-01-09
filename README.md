@@ -1,6 +1,6 @@
 # InstagramClone-Kotlin
  
-This Project is a basic Instagram clone built with Java for Android, it uses Firebase as backend,
+This Project is a basic Instagram clone built with Kotlin for Android, it uses Firebase as backend,
  Picasso library is used for photos.
  
  
