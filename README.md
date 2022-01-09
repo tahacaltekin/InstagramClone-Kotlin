@@ -1,4 +1,4 @@
-# InstagramClone-Kotlin
+https://github.com/tahacaltekin/InstagramClone-Kotlin/blob/main/Screenshot_1641748637.png# InstagramClone-Kotlin
  
 This Project is a basic Instagram clone built with Kotlin for Android, it uses Firebase as backend,
  Picasso library is used for photos.
@@ -13,7 +13,7 @@ This Project is a basic Instagram clone built with Kotlin for Android, it uses F
 
  <h3> Feed Screen </h3>
  
-<img src = "https://github.com/tahacaltekin/BasicInstagramClone/blob/main/Screenshot_1636065818.png" height = "1000">
+<img src = "https://github.com/tahacaltekin/InstagramClone-Kotlin/blob/main/Screenshot_1641748637.png" height = "1000">
 
 
 <h3> Post add and Sign out </h3>
